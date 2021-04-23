@@ -3,7 +3,7 @@ Write OOP in C, probably a bad idea
 
 ## Why?
 
-This was written by me during the course (Imperative and Object-oriented Programming Methodology)[https://wrigstad.com/ioopm]. Since I had a bit too much time on my hands I decided to do some of the OOP course goals before we started with Java. Crazy idea, but worked out flawlessly!
+This was written by me during the course [Imperative and Object-oriented Programming Methodology](https://wrigstad.com/ioopm). Since I had a bit too much time on my hands I decided to do some of the OOP course goals before we started with Java. Crazy idea, but worked out flawlessly!
 
 ## Usage
 
